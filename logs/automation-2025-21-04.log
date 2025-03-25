@@ -1,0 +1,52 @@
+22:14:25.019  [main] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:14:25.140  [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:14:25.571  [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:14:25.572  [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:14:27.387  [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:16:20.802  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\SeleniumJava Automation\openCart\Crossbrowsertesting.xml
+
+  22:16:27.930  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:16:28.341  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:16:28.639  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:16:28.729  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:16:31.057  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:16:31.164  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:16:31.504  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:16:31.505  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:16:32.090  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:16:34.272  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:16:36.740  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:16:37.606  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:16:37.860  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:16:37.861  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:16:39.719  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:17:16.349  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\SeleniumJava Automation\openCart\Crossbrowsertesting.xml
+
+  22:17:21.501  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:17:24.739  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:17:25.001  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:17:25.081  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:17:25.454  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:17:25.460  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:17:25.515  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:17:25.610  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:17:25.611  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:17:25.612  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:17:25.986  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:17:25.987  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:17:27.326  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:17:28.431  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:17:30.723  [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+  22:21:43.262  [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\SeleniumJava Automation\openCart\Crossbrowsertesting.xml
+
+  22:21:49.050  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:21:49.218  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:21:49.545  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  22:21:49.551  [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+  22:21:49.891  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+  22:21:51.376  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Myaccount link
+  22:21:51.867  [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+  
